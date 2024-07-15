@@ -31,5 +31,12 @@ export default UserProfile;
     margin: 5px 0;
   }
  */
+/*
 
+  const user = {
+    name: "John Doe",
+    age: 30,
+    email: "john.doe@example.com"
+  }
+*/
 //component call in App.js <UserProfile name={ user.name} age={user.age} email={ user.email}/>
